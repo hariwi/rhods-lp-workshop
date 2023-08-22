@@ -1,7 +1,8 @@
-= Licence plate recognition
 == Red Hat OpenShift Data Science - Workshop @MSD2023 
 :page-layout: home
 :!sectids:
+
+= Licence plate recognition
 
 [.text-center.strong]
 == Introduction
